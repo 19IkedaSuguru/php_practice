@@ -1,6 +1,8 @@
 <?php
 
 // 課題1
+$name = "Ikeda_Suguru";
+
 if ($name = "Ikeda_Suguru") {
   echo "私はあなたの名前です";
 } else {
